@@ -12,4 +12,4 @@
 [1]:layouts/lesson_one.md
 [2]:layouts/lesson_two.md
 [3]:layouts/lesson_three.md
-[3]:layouts/home_word_one.md
+[4]:layouts/home_word_one.md
