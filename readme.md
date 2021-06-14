@@ -8,8 +8,10 @@
   - [3 урок][3] - практика тестирования
 - 2 Курс
   - [Домашняя работа 1][4]
+  - [Домашняя работа 2][5]
 
 [1]:layouts/lesson_one.md
 [2]:layouts/lesson_two.md
 [3]:layouts/lesson_three.md
 [4]:layouts/home_word_one.md
+[5]:layouts/home_word_two.md
