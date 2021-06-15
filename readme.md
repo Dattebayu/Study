@@ -10,6 +10,7 @@
   - [Домашняя работа 1][4]
   - [Домашняя работа 2][5]
   - [Домашняя работа 3][6]
+  - [Домашняя работа 4][7]
 
 [1]:layouts/lesson_one.md
 [2]:layouts/lesson_two.md
@@ -17,3 +18,4 @@
 [4]:layouts/home_word_one.md
 [5]:layouts/home_word_two.md
 [6]:layouts/home_work_three.md
+[7]:layouts/home_work_four.md
